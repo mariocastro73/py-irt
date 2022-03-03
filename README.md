@@ -127,6 +127,8 @@ Implementation is based on the following paper:
 }
 ```
 
+[New paper in arxiv](https://arxiv.org/abs/2203.01282v1)
+
 ## Contributing
 
 This is research code. Pull requests and issues are welcome!
